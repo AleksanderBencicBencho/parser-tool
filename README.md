@@ -4,7 +4,7 @@ Tool for file manipulation.
 
 Features:
 - [x] merges two text files
-- refactor code to be more usable
+- [x] refactor code to be more usable
 - add basic support to merge multiple files
 - add command line support
 - add support to merge csv files
